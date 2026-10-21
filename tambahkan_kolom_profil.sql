@@ -1,0 +1,3 @@
+-- Tidak perlu menjalankan SQL untuk fitur data diri saat pengajuan.
+-- Nama, nomor HP, dan alamat diisi pada ajukan_peminjaman.php lalu disimpan ke tabel penyewa.
+-- File ini sengaja tidak berisi ALTER TABLE users agar sesuai database lama.
